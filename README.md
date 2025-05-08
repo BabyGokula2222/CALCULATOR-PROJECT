@@ -1,4 +1,13 @@
-# CALCULATOR-PROJECT
+# CALCULATOR-PROJECT:
+Project 2: Calculator (web application)
+* Technologies Used: HTML5, CSS3
+* Description:
+* Designed and developed a functional web-based calculator using HTML and CSS.
+* Created a clean, user interface focusing on basic UX/UI principles such as simplicity, responsiveness, and visual
+clarity.
+* Implemented structured layout for easy user interaction with buttons for basic arithmetic
+operations(Addition,Subtraction,Multiplication,Division).
+* Ensured the design was fully responsive and compatible across different screen sizes and browsers.
 # HTML CODE:
 <!DOCTYPE html>
 <html lang="en">
